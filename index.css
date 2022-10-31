@@ -16,6 +16,7 @@
 
 }
 .c3{
+    backface-visibility: hidden;
     color: aliceblue;
     background-color: black;
     border: solid 3px red;
