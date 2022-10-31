@@ -4,6 +4,7 @@
     padding: 30px;
 }
 .c2 {
+    font-style: italic;
     color: aliceblue;
     background-color: black;
     border: solid 3px red;
@@ -16,6 +17,7 @@
 
 }
 .c3{
+    font-style: italic;
     backface-visibility: hidden;
     color: aliceblue;
     background-color: black;
@@ -28,6 +30,7 @@
     text-align: center;
 }
 .c4{
+    font-style: italic;
     color: aliceblue;
     background-color: black;
     border: solid 3px red;
@@ -48,6 +51,7 @@
     background-color: white;
 }
 .c6{
+    font-style: italic;
    text-decoration: underline;
     text-align: center;
     border-radius: 50%;
